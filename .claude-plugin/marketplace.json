@@ -1,0 +1,22 @@
+{
+  "name": "koah-agent-skills",
+  "owner": {
+    "name": "Koah Labs",
+    "email": "team@koahlabs.com"
+  },
+  "metadata": {
+    "description": "Skills owned by Koah Labs",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "koah-skills",
+      "description": "Collection of skills for workin with Koah products",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/koah-integration"
+      ]
+    }
+  ]
+}
