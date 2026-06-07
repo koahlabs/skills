@@ -17,6 +17,7 @@ Repository of public agentic skills for working with Koah products
 
 1. Run `/plugins` within Claude to manage plugins
 2. Add this repo (https://github.com/koahlabs/skills) under "Marketplaces".
+3. Use your skill within Claude, e.g. `/koah-integration`
 
 
 # LICENSE
