@@ -11,8 +11,8 @@ Repository of public skills for Koah products that can be added with the [skills
 # Get Started
 
 1. Install the skills NPM package: `npm install -g skills`
-2. Install the desired Koah skill, e.g. `npx skills add https://github.com/koahlabs/skills --skill koah-integration`
-3. Use the skill (e.g. within Claude): `/koah-integration`.
+2. Install the desired Koah skill, e.g. `npx skills add https://github.com/koahlabs/skills --skill koah-integration`. This installs the skill to your local project's `.agents/skills` folder.
+3. Use the skill with your LLM: for Claude, you'll need to copy `.agent/skills` to `/claude/skills`, then run `/koah-integration` (may need to restart Claude).
 
 
 # LICENSE
