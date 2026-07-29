@@ -5,6 +5,7 @@ Repository of public agentic skills for working with Koah products
 # Available Skills
 
 1. [koah-integration](skills/koah-integration): Integrate Koah into your application, either as a publisher (AI app developer looking to monetize) or an advertiser looking to promote your brand on Koah.
+2. [hdr-logo](skills/hdr-logo): Re-encode a logo as Rec.2100 PQ so its white pixels render brighter than normal white on Apple EDR/XDR displays, without shifting any other colour. macOS only.
 
 # Get Started
 

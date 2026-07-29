@@ -15,7 +15,8 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/koah-integration"
+        "./skills/koah-integration",
+        "./skills/hdr-logo"
       ]
     }
   ]
