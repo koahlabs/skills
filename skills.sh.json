@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Koah products",
+      "description": "Ship Koah in your own app, as a publisher monetizing with ads or an advertiser measuring conversions.",
+      "skills": ["koah-integration"]
+    },
+    {
+      "title": "Brand and media",
+      "description": "Techniques we use on our own logos, images, and documents.",
+      "skills": ["hdr-logo"]
+    }
+  ]
+}
