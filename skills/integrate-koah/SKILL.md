@@ -1,5 +1,5 @@
 ---
-name: koah
+name: integrate-koah
 description: Install Koah's Ad SDK (publishers monetizing AI apps with native ads) or Koah Conversion Tracking — the browser pixel, the server-side Conversion API, or both (advertisers measuring event ROI). Triggers on "Koah", "koahlabs", "koah.ai", "monetize an AI app", "native ads", "ad placement", "sponsored content", "track conversions", "install a pixel", "conversion API", "CAPI", "server-side conversion tracking".
 ---
 
