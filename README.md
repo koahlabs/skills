@@ -22,7 +22,7 @@ on our own work.
 
 | skill | what it does |
 |---|---|
-| [koah-integration](skills/koah-integration) | Integrate Koah into your application, either as a publisher (an AI app developer looking to monetize) or an advertiser looking to promote your brand on Koah. |
+| [integrate-koah](skills/integrate-koah) | Integrate Koah into your application, either as a publisher (an AI app developer looking to monetize) or an advertiser looking to promote your brand on Koah. |
 | [hdr-logo](skills/hdr-logo) | Re-encode a logo as Rec.2100 PQ so its white pixels render brighter than normal white on Apple EDR/XDR displays, without shifting any other colour. macOS only. |
 
 ## Get started
@@ -32,7 +32,7 @@ on our own work.
 Install one skill:
 
 ```bash
-npx skills add koahlabs/skills --skill koah-integration
+npx skills add koahlabs/skills --skill integrate-koah
 ```
 
 Install everything in the repo:
@@ -50,7 +50,7 @@ installing anything.
 1. Run `/plugins` to manage plugins.
 2. Add `https://github.com/koahlabs/skills` under "Marketplaces".
 3. Reload the available skills with `/reload-plugins`.
-4. Invoke a skill by name, for example `/koah-integration`.
+4. Invoke a skill by name, for example `/integrate-koah`.
 
 ## Adding a skill
 
